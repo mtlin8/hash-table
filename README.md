@@ -6,5 +6,3 @@ Two interesting items that I wanted to test!
 
 2. PROBE RATE
     - After running probes on a hashtable of fixed size, I found that we had about 2n/3 collisions, n being 1000, and the number of collisions being between 590 - 690.
-
-# hash-table
