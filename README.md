@@ -1,4 +1,4 @@
-
+Two interesting items that I wanted to test!
 
 1. BIRTHDAY PARADOX
     - For this test, what I did was create a bool function that would quit and return false if a collision occurred within the first 23 and return true otherwise. If that was true, I incremented my lessThan23 variable by 1 to see in how many runs saw 23 elements inserted without collision. 
